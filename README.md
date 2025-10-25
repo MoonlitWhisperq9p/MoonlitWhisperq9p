@@ -1,8 +1,5 @@
 
-[![YouTube](https://img.shields.io/badge/YouTube-MoonlitWhisper-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCxxFO5f5ZUHp9YYaPD4yDzA)
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MoonlitWhisper-q9p&theme=rose_pine&background=ffe5ec&dates=7b5f4b&stroke=ffb6b9&ring=ff8fab&fire=ff8fab"/>
-</p>
+[[![YouTube](https://img.shields.io/badge/YouTube-MoonlitWhisper-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCxxFO5f5ZUHp9YYaPD4yDzA)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonlitWhisper-q9p&layout=compact&theme=rose_pine&title_color=ff8fab&text_color=7b5f4b&bg_color=ffe5ec"/>
