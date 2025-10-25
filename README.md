@@ -2,7 +2,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-MoonlitWhisper-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCxxFO5f5ZUHp9YYaPD4yDzA)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonlitWhisper-q9p&layout=compact&theme=rose_pine&title_color=ff8fab&text_color=7b5f4b&bg_color=ffe5ec"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonlitWhisperq9p&layout=compact&theme=rose_pine&title_color=ff8fab&text_color=7b5f4b&bg_color=ffe5ec"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoonlitWhisperq9p&show_icons=true&theme=rose_pine&title_color=ff8fab&icon_color=ffb6b9&text_color=7b5f4b&bg_color=ffe5ec"/>
