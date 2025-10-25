@@ -1,7 +1,5 @@
 
 
-<!--
-**MoonlitWhisperq9p/MoonlitWhisperq9p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoonlitWhisper-q9p&show_icons=true&theme=rose_pine&title_color=ff8fab&icon_color=ffb6b9&text_color=7b5f4b&bg_color=ffe5ec"/>
 </p>
