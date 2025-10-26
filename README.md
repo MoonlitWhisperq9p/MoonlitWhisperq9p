@@ -1,4 +1,8 @@
-
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=#FFD1DC&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Moon];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 [![YouTube](https://img.shields.io/badge/YouTube-MoonlitWhisper-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCxxFO5f5ZUHp9YYaPD4yDzA)
 
 <p align="center">
