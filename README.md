@@ -16,5 +16,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonlitWhisperq9p&layout=compact&theme=rose_pine&title_color=ff8fab&text_color=7b5f4b&bg_color=ffe5ec"/>
 </p>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[MoonlitWhisperq9p]&theme=github_pink" alt="[Moon]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[MoonlitWhisperq9p]&theme=github_pink" alt="[MoonlitWhisperq9p]'s GitHub Stats"/>
 </div>
